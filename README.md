@@ -1,6 +1,6 @@
 👋 Olá, eu sou Júlio César Ferreira
 
-💻 **Desenvolvedor Full Stack** | 🚀 Apaixonado por tecnologia e Música
+💻 **Desenvolvedor Full Stack** 
 
 ---
 
