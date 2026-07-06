@@ -2,9 +2,14 @@
 
 <div align="center">
 
-### 💻 Desenvolvedor Full Stack | React • React Native • Node.js • TypeScript
+# 💻 Desenvolvedor Full Stack
 
-Transformando ideias em aplicações modernas, escaláveis e de alta qualidade.
+### React • React Native • Node.js • TypeScript • Supabase • Docker
+
+Desenvolvendo aplicações Web e Mobile modernas, escaláveis e de alta performance.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlioc-ferreira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julioc.ferreira@outlook.pt)
 
 </div>
 
@@ -12,32 +17,32 @@ Transformando ideias em aplicações modernas, escaláveis e de alta qualidade.
 
 # 🚀 Sobre mim
 
-Sou Desenvolvedor Full Stack com foco em aplicações Web e Mobile, desenvolvendo soluções modernas, performáticas e escaláveis utilizando o ecossistema JavaScript e TypeScript.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações Web e Mobile utilizando tecnologias modernas do ecossistema JavaScript e TypeScript.
 
-Tenho experiência no desenvolvimento de sistemas corporativos, aplicações mobile com React Native e Expo, APIs REST com Node.js, integração com Supabase e Firebase, containerização com Docker e bancos de dados relacionais e não relacionais.
+Tenho experiência na construção de sistemas corporativos, APIs REST, aplicações mobile, integração com bancos de dados, autenticação, deploy e containerização utilizando Docker.
 
-Atualmente atuo em projetos envolvendo:
-
-- 📱 Desenvolvimento Mobile com React Native + Expo
-- 🌐 Desenvolvimento Web com React
-- ⚛️ Interfaces modernas utilizando React e TypeScript
-- ⚙️ APIs REST com Node.js e Express
-- ☁️ Backend utilizando Supabase e Firebase
-- 🐳 Containerização de aplicações com Docker
-- 🗄️ Banco de dados PostgreSQL, SQL Server e MongoDB
-- 🔄 Gerenciamento de estado com Zustand
-- 🚀 React Query para cache e sincronização de dados
-- 🔐 Autenticação e autorização
-- 🔗 Integração com APIs REST
-- 📦 Controle de versão utilizando Git e GitHub
-
-Sempre busco escrever código limpo, reutilizável e seguindo boas práticas de arquitetura, SOLID, Clean Code e desenvolvimento ágil.
+Atualmente estudo constantemente novas tecnologias e busco desenvolver soluções escaláveis, performáticas e de fácil manutenção.
 
 ---
 
-# 🛠️ Stack Tecnológica
+# 💼 O que eu desenvolvo
 
-## 💻 Front-end
+- 📱 Aplicações Mobile com React Native e Expo
+- 🌐 Aplicações Web com React
+- ⚙️ APIs REST utilizando Node.js e Express
+- ☁️ Backend utilizando Supabase e Firebase
+- 🔐 Sistemas de autenticação e autorização
+- 🔄 Integração com APIs REST
+- 🗄️ Modelagem de banco de dados
+- 🐳 Containerização com Docker
+- 🚀 Deploy de aplicações
+- 📊 Dashboards e sistemas administrativos
+
+---
+
+# 🛠️ Tecnologias
+
+## Front-end
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +52,7 @@ Sempre busco escrever código limpo, reutilizável e seguindo boas práticas de 
 
 ---
 
-## ⚙️ Back-end
+## Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -56,7 +61,7 @@ Sempre busco escrever código limpo, reutilizável e seguindo boas práticas de 
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -64,67 +69,96 @@ Sempre busco escrever código limpo, reutilizável e seguindo boas práticas de 
 
 ---
 
-## 🚀 Estado e Gerenciamento de Dados
+## Gerenciamento de Estado
 
 ![Zustand](https://img.shields.io/badge/Zustand-7C5C46?style=for-the-badge)
+
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ---
 
-## 🐳 DevOps & Ferramentas
+## DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Ferramentas
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 💼 Experiência
+# 🚀 Projetos em Destaque
 
-✔️ Desenvolvimento de aplicações Web e Mobile
+## 📱 Aplicações Mobile
 
-✔️ Desenvolvimento de sistemas corporativos
+- React Native
+- Expo
+- TypeScript
+- Zustand
+- React Query
 
-✔️ React e React Native com TypeScript
-
-✔️ APIs REST utilizando Node.js e Express
-
-✔️ Integração com Supabase e Firebase
-
-✔️ Modelagem e consultas em PostgreSQL, SQL Server e MongoDB
-
-✔️ Containerização de aplicações utilizando Docker
-
-✔️ Gerenciamento de estado com Zustand
-
-✔️ React Query para sincronização de dados
-
-✔️ Versionamento utilizando Git e GitHub
-
-✔️ Consumo e integração de APIs REST
-
-✔️ Arquitetura de aplicações escaláveis
+Aplicações com foco em performance, reutilização de componentes e excelente experiência do usuário.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🌐 Sistemas Web
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juliocsr28&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsr28&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- React
+- Node.js
+- PostgreSQL
+- Docker
+- Supabase
+
+Sistemas administrativos, dashboards e aplicações corporativas.
+
+---
+
+## ⚙️ APIs REST
+
+- Node.js
+- Express
+- JWT
+- PostgreSQL
+- Docker
+
+Desenvolvimento de APIs escaláveis, autenticação, integração com bancos de dados e serviços externos.
+
+---
+
+# 📚 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Architecture
+- Microsserviços
+- Testes Automatizados
+- Docker
+- CI/CD
+- Cloud Computing
+
+---
 
 # 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlioc-ferreira)
+📧 **Email**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julioc.ferreira@outlook.pt)
+**julioc.ferreira@outlook.pt**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/júlioc-ferreira
 
 ---
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, construindo soluções e evoluindo como desenvolvedor.
+## Obrigado pela visita! 🚀
+
+Estou sempre aberto para novos desafios, projetos e oportunidades.
 
 </div>
