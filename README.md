@@ -1,6 +1,7 @@
+# 👋 Olá, eu sou Júlio César Ferreira Madalena
+
 <div align="center">
-# Olá, eu sou Júlio César
-  
+
 # 💻 Desenvolvedor Full Stack
 
 ### React • React Native • Node.js • TypeScript • Supabase • Docker
