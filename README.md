@@ -108,13 +108,12 @@ Sempre busco escrever código limpo, reutilizável e seguindo boas práticas de 
 
 ---
 
-# 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliocsr28&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsr28&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juliocsr28&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocsr28&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 📫 Contato
 
