@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Júlio César Ferreira Madalena
+#  Olá, eu sou Júlio César Ferreira Madalena
 
 <div align="center">
 
